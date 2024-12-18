@@ -37,13 +37,13 @@
     "ncp":           "~0.2.6",
     "rimraf":        "~2.0.2",
     "walk":          "~2.2.1",
-    "growl":         "~1.6.0",
-    "express":       "~3.0.0rc4",
+    "growl":         "~1.10.5",
+    "express":       "~4.21.2",
     "date-utils":    "~1.2.11",
     "ansi-color":    "~0.2.1",
     "inflection":    "~1.2.2",
     "mocha":         "~1.4.2",
-    "handlebars":    "~1.0.6"
+    "handlebars":    "~4.7.8"
   },
   "devDependencies": {
     "chai":          "~1.2.0"
